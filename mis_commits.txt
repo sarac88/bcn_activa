@@ -1,4 +1,9 @@
 - Fresa
+<<<<<<< HEAD
 - Pera
 - Uvas
 - Naranja
+- Plátano
+- Pera
+- Melocotón
+- Fresa
